@@ -1,0 +1,8 @@
+name: EntityStats
+main: com.mcsunnyside.EntityStats.Main
+version: 1.0
+api-version: 1.14
+commands:
+  es:
+    description: EntityStats Command
+    usage: /es
